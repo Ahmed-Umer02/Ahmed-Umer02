@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about proper GitHub usage, so here are a couple things I plan to work on in the next couple months:
+- 🌱 I’m currently working on using GitHub more, so here are a few things I plan to work on in the next couple months:
+  - Remembering to do my personal projects on here and not just on my local drive 🤓
   - Actually commiting things throughout development 😄
   - Leaving good messages for the commits 💬
-  - not doing it all out of the terminal (it's just more time consuming and a bit of a pain but thats how I initially learned git) 🤓
+  - Completing more Data Science Projects 🔭
 <!--
 **Ahmed-Umer02/Ahmed-Umer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
