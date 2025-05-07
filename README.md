@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on using GitHub more, so here are a few things I plan to work on in the next couple months:
-  - Remembering to do my personal projects on here and not just on my local drive 🤓
-  - Actually commiting things throughout development 😄
-  - Leaving good messages for the commits 💬
-  - Completing more Data Science Projects 🔭
+- 🔭 I’m currently working on A Multi-Modal Stock Predicting Model that uses real-time stock and news data to predict movement and price.
+- 🌱 I’m currently learning how to build apps compatible with the IOS and Andriod systems and Network management.
+- ⚡ Fun fact: I love to learn about everything and love to explore new challenges in all fields and walks of life.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-umer5/)
+  
 <!--
 **Ahmed-Umer02/Ahmed-Umer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
