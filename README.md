@@ -1,8 +1,11 @@
 ### Hi, I'm Ahmed 👋
 
-I build machine learning models and small tools around them: NLP classifiers, clustering on large retail datasets, an AI code-review bot, and lately a digital-products storefront.
+I write code that automates the tedious parts of software and data work, and I build machine learning models.
 
-**Now:** running [Barnyard Templates](https://github.com/AI-Barnyard/barnyard-legal), a static storefront for printable planners and workbooks (study planner, budgeting/debt payoff, investing basics, new-grad job search kit).
+**Automation work:**
+- **Code review:** a GitHub App that reviews every pull request automatically using an LLM, triggered by webhooks, with tests running in GitHub Actions.
+- **Data collection:** scripts that pull data from APIs and websites (YouTube Data API, SpaceX API, web scraping) so datasets get built by code instead of by hand.
+- **ML pipelines:** repeatable preprocessing, feature selection, and model comparison with scikit-learn pipelines and grid search.
 
 ---
 
