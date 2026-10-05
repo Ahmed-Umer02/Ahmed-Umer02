@@ -1,30 +1,18 @@
-### Hi, I'm Ahmed 👋
+### Hi there, I'm Ahmed 👋
 
-I write code that automates the tedious parts of software and data work, and I build machine learning models.
-
-**Automation work:**
-- **Code review:** a GitHub App that reviews every pull request automatically using an LLM, triggered by webhooks, with tests running in GitHub Actions.
-- **Data collection:** scripts that pull data from APIs and websites (YouTube Data API, SpaceX API, web scraping) so datasets get built by code instead of by hand.
-- **ML pipelines:** repeatable preprocessing, feature selection, and model comparison with scikit-learn pipelines and grid search.
+- 🔭 I'm currently working on coding projects and automation: tools that take repetitive work off people's plates, from automated code reviews to data pipelines that collect, clean, and model data on their own.
+- 🌱 I'm currently enhancing my skills in automation and AI integrations, LLM-powered tools, machine learning and deep learning, building apps for iOS and Android, and network management.
+- 🛠️ Skills I use day to day: Python, JavaScript (Node.js), SQL, scikit-learn, pandas, Transformers (BERT), REST APIs and webhooks, web scraping, GitHub Actions.
+- 🏢 Sectors I work in and have worked in: cybersecurity, retail, finance and the stock market, developer tools, social media trust & safety, and aerospace data.
+- ⚡ Fun fact: I love learning about everything and taking on new challenges in every field and walk of life.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-umer5/)
 
 ---
 
-### 🔨 Projects
+### 🔨 Some of my public work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [AI Code Reviewer](https://github.com/Ahmed-Umer02/AI-Code-Reviewer) | GitHub App that listens for pull request webhooks and posts AI-generated reviews using Code Llama | Node.js, Express, Probot, Hugging Face, Jest |
-| [Cyberbullying Identification](https://github.com/Ahmed-Umer02/CB-identification-models-fall24) | Team research project: scraped YouTube comments and trained ML/DL classifiers to flag cyberbullying. I was the ML & DL lead; the fine-tuned BERT model hit **95% accuracy / 0.95 F1** | Python, BERT, scikit-learn, YouTube Data API |
-| [Retail Store Clustering](https://github.com/Ahmed-Umer02/Clothes-Retail-Store-Clustering-Project) | Segmented 500K retail transactions (2018–2022) and compared K-Means, Fuzzy C-Means, hierarchical clustering and Self-Organizing Maps | pandas, scikit-learn, scikit-fuzzy, MiniSom |
-| [Phishing Detection](https://github.com/Ahmed-Umer02/Phishing-Detection) | Benchmarked classifiers (LR, LDA, KNN, CART, Naive Bayes, SVM, Random Forest) for detecting phishing URLs, with feature selection and grid search | scikit-learn, pandas, seaborn |
-| [SpaceX Landing Prediction](https://github.com/Ahmed-Umer02/DataScienceCertificateFinalProject) | Data science certificate capstone: collected launch data via API and web scraping, ran SQL/visual EDA, and predicted Falcon 9 first-stage landings | Python, SQLite, scikit-learn |
-
-### 🧰 Tools I use
-
-**Languages:** Python, JavaScript (Node.js), SQL  
-**ML / Data:** scikit-learn, pandas, NumPy, Transformers (BERT), Jupyter, matplotlib, seaborn  
-**Other:** Express, GitHub Apps / webhooks, HTML/CSS
-
-### 📫 Reach me
-
-[LinkedIn](https://www.linkedin.com/in/ahmed-umer5/)
+- **[AI Code Reviewer](https://github.com/Ahmed-Umer02/AI-Code-Reviewer)** (developer tools): a GitHub App that automatically reviews pull requests with Code Llama. *Node.js, Probot, Jest*
+- **[Cyberbullying Identification](https://github.com/Ahmed-Umer02/CB-identification-models-fall24)** (trust & safety): ML & DL lead on a team that scraped YouTube comments and trained classifiers. The BERT model reached 95% accuracy. *Python, BERT, scikit-learn*
+- **[Phishing Detection](https://github.com/Ahmed-Umer02/Phishing-Detection)** (cybersecurity): compared seven classifiers for spotting phishing URLs. *scikit-learn*
+- **[Retail Store Clustering](https://github.com/Ahmed-Umer02/Clothes-Retail-Store-Clustering-Project)** (retail): segmented 500K transactions with K-Means, Fuzzy C-Means, hierarchical clustering, and SOMs. *pandas, scikit-learn, MiniSom*
+- **[SpaceX Landing Prediction](https://github.com/Ahmed-Umer02/DataScienceCertificateFinalProject)** (aerospace): predicted Falcon 9 first-stage landings from API and scraped launch data. *Python, SQLite*
